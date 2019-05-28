@@ -1,3 +1,7 @@
 
 
 #Git 学习配置
+
+#git --soft HEAD~1
+#git HEAD~1
+
